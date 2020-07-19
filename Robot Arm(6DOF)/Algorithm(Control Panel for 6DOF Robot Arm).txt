@@ -1,0 +1,36 @@
+Start.
+ Choose the way of the calculation.
+  - Forward Kinematics.
+  - Inverse Kinematics.
+ If the user choose Forward Kinematics.
+  The program will ask the user to enter the joint angles.
+   - Please enter the value of Theta1.
+   - Please enter the value of Theta2.
+   - Please enter the value of Theta3.
+   - Please enter the value of Theta4.
+   - Please enter the value of Theta5.
+   - Please enter the value of Theta6.
+  The Program will calculate the positions and the rotations and the orientations for the end effector.
+  The Position and the rotation and the orientation for the end effector will apear in the screen.
+  The robotics arm will move.
+ If the user choose the Inverse Kinematics.
+  The program will ask the user to enter the Positions and the rotations and the orientations for the end effector.
+   The Positions:
+   -Please enter the value of Px.
+   -Please enter the value of Py.
+   -Please enter the value of Pz.
+   The Rotations and Orientations
+   -Please enter the value of Ox.
+   -Please enter the value of Oy.
+   -Please enter the value of Oz.
+   -Please enter the value of ax.
+   -Please enter the value of ay.
+   -Please enter the value of az.
+   -Please enter the value of nx.
+   -Please enter the value of ny.
+   -Please enter the value of nz.
+  The Program will calculate the joint angles.
+  The joint angles will apear in the screen.
+  The robotics arm will move.
+End.
+

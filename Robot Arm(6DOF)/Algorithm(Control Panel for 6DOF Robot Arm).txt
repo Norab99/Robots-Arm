@@ -16,19 +16,19 @@ Start.
  If the user choose the Inverse Kinematics.
   The program will ask the user to enter the Positions and the rotations and the orientations for the end effector.
    The Positions:
-   -Please enter the value of Px.
-   -Please enter the value of Py.
-   -Please enter the value of Pz.
+    -Please enter the value of Px.
+    -Please enter the value of Py.
+    -Please enter the value of Pz.
    The Rotations and Orientations
-   -Please enter the value of Ox.
-   -Please enter the value of Oy.
-   -Please enter the value of Oz.
-   -Please enter the value of ax.
-   -Please enter the value of ay.
-   -Please enter the value of az.
-   -Please enter the value of nx.
-   -Please enter the value of ny.
-   -Please enter the value of nz.
+    -Please enter the value of Ox.
+    -Please enter the value of Oy.
+    -Please enter the value of Oz.
+    -Please enter the value of ax.
+    -Please enter the value of ay.
+    -Please enter the value of az.
+    -Please enter the value of nx.
+    -Please enter the value of ny.
+    -Please enter the value of nz.
   The Program will calculate the joint angles.
   The joint angles will apear in the screen.
   The robotics arm will move.

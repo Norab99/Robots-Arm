@@ -1,0 +1,40 @@
+Start.
+ Connect ech motor (The three motors) with the driver.
+ Connect each driver (Three drivers) with the microcontroller (Arduino uno).
+ Design the layout of the robotic arm. 
+ Begin the programming of the robotic arm to make the control pannel.
+  Choose the way of the calculation.
+   - Forward Kinematics.
+   - Inverse Kinematics.
+  If the user choose Forward Kinematics.
+   The program will ask the user to enter the joint angles and the length of each link.
+    The Joint Angles:
+    - Please enter the value of Theta1.
+    - Please enter the value of Theta2.
+    - Please enter the value of Theta3.
+    Length of Each Link:
+    - Please enter the value of L1.
+    - Please enter the value of L2.
+    - Please enter the value of L3.
+   The Program will calculate the positions (X,Y) and the rotations and the orientations for the end effector (Total Theta).
+   The Position and the rotation and the orientation for the end effector will appear in the screen.
+   The robotics arm will move.
+  If the user choose the Inverse Kinematics.
+   The program will ask the user to enter the Positions and the rotations and the orientations for the end effector and length of each link.
+    The Positions:
+    -Please enter the value of X.
+    -Please enter the value of Y.
+    The Rotations and Orientations
+    -Please enter the value of Totat Theta.
+    Length of Each Link:
+    -Please enter the value of L1.
+    -Please enter the value of L2.
+    -Please enter the value of L3.
+   The Program will calculate the joint angles (Theta1, Theta2, Theta3).
+   The joint angles will appear in the screen.
+   The robotics arm will move.
+ Assemble the microcontrollers and the motors with layout of the robotic arm.
+ Connect the robotic arm with control pannel.
+End.
+
+ 

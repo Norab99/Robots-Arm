@@ -11,7 +11,7 @@ Start.
    - Please enter the value of Theta5.
    - Please enter the value of Theta6.
   The Program will calculate the positions and the rotations and the orientations for the end effector.
-  The Position and the rotation and the orientation for the end effector will apear in the screen.
+  The Position and the rotation and the orientation for the end effector will appear in the screen.
   The robotics arm will move.
  If the user choose the Inverse Kinematics.
   The program will ask the user to enter the Positions and the rotations and the orientations for the end effector.

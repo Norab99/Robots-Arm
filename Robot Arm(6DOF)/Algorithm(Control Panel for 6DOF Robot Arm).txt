@@ -30,7 +30,7 @@ Start.
     -Please enter the value of ny.
     -Please enter the value of nz.
   The Program will calculate the joint angles.
-  The joint angles will apear in the screen.
+  The joint angles will appear in the screen.
   The robotics arm will move.
 End.
 
